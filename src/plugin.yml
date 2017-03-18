@@ -2,3 +2,7 @@ name: rogue3DSMapStealer
 version: 1
 author: Klanc
 main: com.slabbababba.pluginTest.Main
+commands:
+  steal:
+    description: Convert minecraft chunks to rogue3ds chunks
+    usage: /steal numberOfChunksToSteal
